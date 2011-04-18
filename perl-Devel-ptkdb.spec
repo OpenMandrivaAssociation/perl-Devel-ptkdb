@@ -3,7 +3,7 @@
 
 Name:		perl-%{realname}
 Version:    1.1091
-Release:    %mkrel 1
+Release:    %mkrel 2
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:    DISTSUMMARY
