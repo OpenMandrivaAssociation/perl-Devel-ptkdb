@@ -44,3 +44,16 @@ rm -rf $RPM_BUILD_ROOT
 #DISTEXTRA
 
 
+
+
+%changelog
+* Mon Apr 18 2011 Funda Wang <fwang@mandriva.org> 1.1091-2mdv2011.0
++ Revision: 654950
+- rebuild for updated spec-helper
+
+* Fri May 15 2009 Jérôme Quelin <jquelin@mandriva.org> 1.1091-1mdv2011.0
++ Revision: 375952
+- import perl-Devel-ptkdb
+
+
+
