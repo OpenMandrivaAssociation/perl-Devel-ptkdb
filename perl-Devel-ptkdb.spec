@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:    1.1091
-Release:    4
+Release:    5
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:    Perl debugger using a Tk GUI
