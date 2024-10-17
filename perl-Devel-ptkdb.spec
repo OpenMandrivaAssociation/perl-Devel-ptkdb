@@ -7,7 +7,7 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Summary:    Perl debugger using a Tk GUI
 Source0:    Devel-ptkdb-1.1091.tar.gz
-Url:		http://search.cpan.org/dist/%{realname}
+Url:		https://search.cpan.org/dist/%{realname}
 BuildRequires: perl-devel
 BuildArch: noarch
 
